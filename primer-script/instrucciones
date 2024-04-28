@@ -1,0 +1,27 @@
+mkdir artes-culinarias
+cd artes-culinarias
+touch lista.doc
+ls
+cd .. 
+mkdir administración
+cd administración
+mkdir 2021
+cd 2021
+touch lista.doc
+cd ..
+mkdir 2022
+cd 2022
+touch lista.doc
+cd ..
+mkdir 2023
+cd 2023
+touch lista.doc
+cd ..
+cd ..
+mkdir peluquería
+cd peluquería
+touch lista.doc
+cd ..
+mkdir programación 
+cd programación
+touch lista.doc
